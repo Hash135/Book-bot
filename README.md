@@ -1,8 +1,6 @@
-# BookBot
-> Discord bot in python to retrieve goodreads info about a book
+# Book-bot
+> Discord bot written in python to retrieve information about a book from [goodreads](www.goodreads.com)
 
-# Example usage
-![bookbot_demo](https://github.com/bajatin/BookBot/blob/master/bookbot_demo.png)
 
-# TODO
+# To do:
 - [ ] Implement scraper using scrapy. 
